@@ -1,0 +1,31 @@
+{
+  "entities": [ {
+    "value": "Hexagonal",
+    "synonyms": [ "hex", "Hexagonal" ],
+    "languageCode": "es"
+  }, {
+    "value": "Redondo",
+    "synonyms": [ "Redondo" ],
+    "languageCode": "es"
+  }, {
+    "value": "Triangular",
+    "synonyms": [ "Triangular" ],
+    "languageCode": "es"
+  }, {
+    "value": "Profesional",
+    "synonyms": [ "Profesional" ],
+    "languageCode": "es"
+  }, {
+    "value": "College",
+    "synonyms": [ "College" ],
+    "languageCode": "es"
+  }, {
+    "value": "Italiano",
+    "synonyms": [ "Italiano" ],
+    "languageCode": "es"
+  }, {
+    "value": "Frances",
+    "synonyms": [ "Frances" ],
+    "languageCode": "es"
+  } ]
+}

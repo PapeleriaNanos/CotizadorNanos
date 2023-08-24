@@ -1,0 +1,15 @@
+{
+  "name": "80e48499-5630-40cf-81b2-9dfdc88fde29",
+  "displayName": "Pedir Lista",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Lista " ]
+      },
+      "languageCode": "es"
+    } ]
+  }
+}

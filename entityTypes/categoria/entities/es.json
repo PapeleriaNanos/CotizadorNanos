@@ -1,0 +1,87 @@
+{
+  "entities": [ {
+    "value": "Papel",
+    "synonyms": [ "Papel" ],
+    "languageCode": "es"
+  }, {
+    "value": "Lapices",
+    "synonyms": [ "Lapices" ],
+    "languageCode": "es"
+  }, {
+    "value": "Lapices de Colores",
+    "synonyms": [ "Lapices de Colores" ],
+    "languageCode": "es"
+  }, {
+    "value": "Borrador",
+    "synonyms": [ "Borrador" ],
+    "languageCode": "es"
+  }, {
+    "value": "Sacapuntas",
+    "synonyms": [ "Sacapuntas" ],
+    "languageCode": "es"
+  }, {
+    "value": "Clips",
+    "synonyms": [ "Clips" ],
+    "languageCode": "es"
+  }, {
+    "value": "Marcador Permanante",
+    "synonyms": [ "Marcador Permanante" ],
+    "languageCode": "es"
+  }, {
+    "value": "Marcador Pizarron",
+    "synonyms": [ "Marcador Pizarron" ],
+    "languageCode": "es"
+  }, {
+    "value": "Marcatextos",
+    "synonyms": [ "Marcatextos" ],
+    "languageCode": "es"
+  }, {
+    "value": "Cinta",
+    "synonyms": [ "Cinta" ],
+    "languageCode": "es"
+  }, {
+    "value": "Pegamento",
+    "synonyms": [ "Pegamento" ],
+    "languageCode": "es"
+  }, {
+    "value": "Silicon",
+    "synonyms": [ "Silicon" ],
+    "languageCode": "es"
+  }, {
+    "value": "Reglas",
+    "synonyms": [ "Reglas" ],
+    "languageCode": "es"
+  }, {
+    "value": "Formatos Impresos",
+    "synonyms": [ "Formatos Impresos" ],
+    "languageCode": "es"
+  }, {
+    "value": "Plastilina",
+    "synonyms": [ "Plastilina" ],
+    "languageCode": "es"
+  }, {
+    "value": "Notas Adhesivas",
+    "synonyms": [ "Notas Adhesivas" ],
+    "languageCode": "es"
+  }, {
+    "value": "Etiquetas",
+    "synonyms": [ "Etiquetas" ],
+    "languageCode": "es"
+  }, {
+    "value": "Crayones",
+    "synonyms": [ "Crayones" ],
+    "languageCode": "es"
+  }, {
+    "value": "Pinturas",
+    "synonyms": [ "Pinturas" ],
+    "languageCode": "es"
+  }, {
+    "value": "Lapiceras",
+    "synonyms": [ "Lapiceras" ],
+    "languageCode": "es"
+  }, {
+    "value": "Corrector",
+    "synonyms": [ "Corrector" ],
+    "languageCode": "es"
+  } ]
+}

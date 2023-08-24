@@ -1,0 +1,15 @@
+{
+  "name": "d9ae46a9-1af4-4ca7-8ff4-5b0bae09b08e",
+  "displayName": "Finalizar Pedido",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "confirmarSi",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "¿Preguntas?",
+    "name": "96275b18-2fdc-445c-935e-10e1b13873f0"
+  } ]
+}

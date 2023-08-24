@@ -1,0 +1,7 @@
+{
+  "name": "3455eca6-a631-414f-86b9-2a029f3ae166",
+  "displayName": "Mayoreo",
+  "priority": 500000,
+  "skipAutoAnnotation": true,
+  "numTrainingPhrases": 7
+}

@@ -1,0 +1,23 @@
+{
+  "name": "065813b4-b2e6-48f2-8db9-6431704f111b",
+  "displayName": "Comenzar Confirmacion",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Antes de finalizar solo necesito confirmar algunos datos de tu pedido." ]
+      },
+      "languageCode": "es"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "condition": "true",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Datos Cliente",
+    "name": "db9d5326-2048-4d06-8989-3e3461793301"
+  } ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bc2991dd-484c-479f-9d7f-368fd81c40d6",
+  "displayName": "confirmarNo",
+  "priority": 500000,
+  "skipAutoAnnotation": true,
+  "numTrainingPhrases": 10
+}

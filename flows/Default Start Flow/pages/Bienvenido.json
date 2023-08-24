@@ -1,0 +1,15 @@
+{
+  "name": "948aafb8-4421-4699-b857-1b91f33ef4fa",
+  "displayName": "Bienvenido",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Hola mi nombre es SANDY y yo sere tu asistente virtual el día de hoy. En que te puedo ayudar? Puedes escribirme o elije una de las siguientes opciones:\n\n1.Hacer Pedido\n2. Cotización\n3. Info Tramites" ]
+      },
+      "languageCode": "es"
+    } ]
+  }
+}

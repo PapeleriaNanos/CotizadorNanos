@@ -1,0 +1,74 @@
+{
+  "name": "3c9fa602-c6d5-4cee-a619-b8854bcaf8aa",
+  "displayName": "Domicilio",
+  "form": {
+    "parameters": [ {
+      "displayName": "calle",
+      "required": true,
+      "entityType": "@sys.address",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Cual es el nombre de la calle donde se ubica su domicilio?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      },
+      "redact": true
+    }, {
+      "displayName": "numeroCasa",
+      "required": true,
+      "entityType": "@sys.number",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Cual es el numero de su casa?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      }
+    }, {
+      "displayName": "zipCode",
+      "required": true,
+      "entityType": "@sys.zip-code",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Cual es su codigo postal?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      },
+      "redact": true
+    }, {
+      "displayName": "municipio",
+      "required": true,
+      "entityType": "@municipio",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Cual es su municipio?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      },
+      "redact": true
+    } ]
+  },
+  "transitionRoutes": [ {
+    "condition": "$page.params = FINAL",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Forma de Envio",
+    "name": "dcdfdcf1-9905-48a7-b72d-dd9b8c2a9e6a"
+  } ]
+}

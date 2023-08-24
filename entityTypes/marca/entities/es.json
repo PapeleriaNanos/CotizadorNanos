@@ -1,0 +1,199 @@
+{
+  "entities": [ {
+    "value": "Scribe",
+    "synonyms": [ "Scribe" ],
+    "languageCode": "es"
+  }, {
+    "value": "Norma",
+    "synonyms": [ "Norma" ],
+    "languageCode": "es"
+  }, {
+    "value": "Pelikan",
+    "synonyms": [ "Pelikan" ],
+    "languageCode": "es"
+  }, {
+    "value": "Dixon",
+    "synonyms": [ "Dixon" ],
+    "languageCode": "es"
+  }, {
+    "value": "Smarty",
+    "synonyms": [ "Smarty" ],
+    "languageCode": "es"
+  }, {
+    "value": "Smart",
+    "synonyms": [ "Smart" ],
+    "languageCode": "es"
+  }, {
+    "value": "Scribe Kids",
+    "synonyms": [ "Scribe Kids" ],
+    "languageCode": "es"
+  }, {
+    "value": "Bic",
+    "synonyms": [ "Bic" ],
+    "languageCode": "es"
+  }, {
+    "value": "Maped",
+    "synonyms": [ "Maped" ],
+    "languageCode": "es"
+  }, {
+    "value": "Sharpie",
+    "synonyms": [ "Sharpie" ],
+    "languageCode": "es"
+  }, {
+    "value": "Janel",
+    "synonyms": [ "Janel" ],
+    "languageCode": "es"
+  }, {
+    "value": "Cansa",
+    "synonyms": [ "Cansa" ],
+    "languageCode": "es"
+  }, {
+    "value": "Iris",
+    "synonyms": [ "Iris" ],
+    "languageCode": "es"
+  }, {
+    "value": "Paper Mate",
+    "synonyms": [ "Paper Mate" ],
+    "languageCode": "es"
+  }, {
+    "value": "Factis",
+    "synonyms": [ "Factis" ],
+    "languageCode": "es"
+  }, {
+    "value": "Azor",
+    "synonyms": [ "Azor" ],
+    "languageCode": "es"
+  }, {
+    "value": "Crayola",
+    "synonyms": [ "Crayola" ],
+    "languageCode": "es"
+  }, {
+    "value": "Aguila",
+    "synonyms": [ "Aguila" ],
+    "languageCode": "es"
+  }, {
+    "value": "Black Peps",
+    "synonyms": [ "Black Peps" ],
+    "languageCode": "es"
+  }, {
+    "value": "Bristol",
+    "synonyms": [ "Bristol" ],
+    "languageCode": "es"
+  }, {
+    "value": "Swing",
+    "synonyms": [ "Swing" ],
+    "languageCode": "es"
+  }, {
+    "value": "Rayter",
+    "synonyms": [ "Rayter" ],
+    "languageCode": "es"
+  }, {
+    "value": "Memo Tip",
+    "synonyms": [ "Memo Tip" ],
+    "languageCode": "es"
+  }, {
+    "value": "Post It",
+    "synonyms": [ "Post It" ],
+    "languageCode": "es"
+  }, {
+    "value": "Vinci",
+    "synonyms": [ "Vinci" ],
+    "languageCode": "es"
+  }, {
+    "value": "Vividel",
+    "synonyms": [ "Vividel" ],
+    "languageCode": "es"
+  }, {
+    "value": "PrismaColor",
+    "synonyms": [ "PrismaColor" ],
+    "languageCode": "es"
+  }, {
+    "value": "Mapita",
+    "synonyms": [ "Mapita" ],
+    "languageCode": "es"
+  }, {
+    "value": "Blanca Nieves",
+    "synonyms": [ "Blanca Nieves" ],
+    "languageCode": "es"
+  }, {
+    "value": "Bombin",
+    "synonyms": [ "Bombin" ],
+    "languageCode": "es"
+  }, {
+    "value": "Politec",
+    "synonyms": [ "Politec" ],
+    "languageCode": "es"
+  }, {
+    "value": "Transfer",
+    "synonyms": [ "Transfer" ],
+    "languageCode": "es"
+  }, {
+    "value": "Larousse",
+    "synonyms": [ "Larousse" ],
+    "languageCode": "es"
+  }, {
+    "value": "Expo",
+    "synonyms": [ "Expo" ],
+    "languageCode": "es"
+  }, {
+    "value": "Magistral",
+    "synonyms": [ "Magistral" ],
+    "languageCode": "es"
+  }, {
+    "value": "MAE",
+    "synonyms": [ "MAE" ],
+    "languageCode": "es"
+  }, {
+    "value": "Boflex",
+    "synonyms": [ "Boflex" ],
+    "languageCode": "es"
+  }, {
+    "value": "Willson Jones",
+    "synonyms": [ "Willson Jones" ],
+    "languageCode": "es"
+  }, {
+    "value": "Lefort",
+    "synonyms": [ "Lefort" ],
+    "languageCode": "es"
+  }, {
+    "value": "Pritt",
+    "synonyms": [ "Pritt" ],
+    "languageCode": "es"
+  }, {
+    "value": "Bully",
+    "synonyms": [ "Bully" ],
+    "languageCode": "es"
+  }, {
+    "value": "Resistol",
+    "synonyms": [ "Resistol" ],
+    "languageCode": "es"
+  }, {
+    "value": "Pinguino",
+    "synonyms": [ "Pinguino" ],
+    "languageCode": "es"
+  }, {
+    "value": "GBC",
+    "synonyms": [ "GBC" ],
+    "languageCode": "es"
+  }, {
+    "value": "Estrella",
+    "synonyms": [ "Estrella" ],
+    "languageCode": "es"
+  }, {
+    "value": "Apsa",
+    "synonyms": [ "Apsa" ],
+    "languageCode": "es"
+  }, {
+    "value": "Bob",
+    "synonyms": [ "Bob" ],
+    "languageCode": "es"
+  }, {
+    "value": "Kola Loka",
+    "synonyms": [ "Kola Loka" ],
+    "languageCode": "es"
+  }, {
+    "value": "Mapasa",
+    "synonyms": [ "Mapasa" ],
+    "languageCode": "es"
+  } ]
+}

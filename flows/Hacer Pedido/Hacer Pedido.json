@@ -1,0 +1,40 @@
+{
+  "name": "2106198f-98d0-4a09-a41a-ce5e598cf400",
+  "displayName": "Hacer Pedido",
+  "transitionRoutes": [ {
+    "intent": "hacer.Pedido",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Comenzar Confirmacion",
+    "name": "0306bb13-c397-4da3-a6d6-4d580633c146"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ups, no he entendido a que te refieres.", "¿Podrías repetirlo, por favor?", "¿Disculpa?", "¿Decías?", "¿Cómo?" ]
+        },
+        "languageCode": "es"
+      } ]
+    },
+    "name": "c06a2c83-1035-4312-9dce-e5e987410afb"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ups, no he entendido a que te refieres.", "¿Podrías repetirlo, por favor?", "¿Disculpa?", "¿Decías?", "¿Cómo?" ]
+        },
+        "languageCode": "es"
+      } ]
+    },
+    "name": "b86b006e-9560-4cef-b48f-7192061b3dee"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.30000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_MANUAL"
+  }
+}

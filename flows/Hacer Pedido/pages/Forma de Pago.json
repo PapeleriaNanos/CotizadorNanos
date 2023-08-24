@@ -1,0 +1,30 @@
+{
+  "name": "3ba99d44-92ed-4b2a-9c45-58342fbdf3b5",
+  "displayName": "Forma de Pago",
+  "form": {
+    "parameters": [ {
+      "displayName": "formaPago",
+      "required": true,
+      "entityType": "@formas-Pago",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Como seria su pago?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      },
+      "redact": true
+    } ]
+  },
+  "transitionRoutes": [ {
+    "condition": "$page.params = FINAL",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Total Pedido",
+    "name": "1b262af7-6128-4f49-bb39-87b904788414"
+  } ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "8a455e70-1b69-4aee-9403-3a76d6143741",
+  "displayName": "Envio",
+  "priority": 500000,
+  "skipAutoAnnotation": true,
+  "numTrainingPhrases": 5
+}

@@ -1,0 +1,47 @@
+{
+  "entities": [ {
+    "value": "Irapuato",
+    "synonyms": [ "Irapuato" ],
+    "languageCode": "es"
+  }, {
+    "value": "Guanajuato",
+    "synonyms": [ "Guanajuato" ],
+    "languageCode": "es"
+  }, {
+    "value": "Leon",
+    "synonyms": [ "Leon" ],
+    "languageCode": "es"
+  }, {
+    "value": "Silao",
+    "synonyms": [ "Silao" ],
+    "languageCode": "es"
+  }, {
+    "value": "Celaya",
+    "synonyms": [ "Celaya" ],
+    "languageCode": "es"
+  }, {
+    "value": "San Miguel de Allende",
+    "synonyms": [ "San Miguel de Allende" ],
+    "languageCode": "es"
+  }, {
+    "value": "Purisima del Rincon",
+    "synonyms": [ "Purisima del Rincon" ],
+    "languageCode": "es"
+  }, {
+    "value": "Acambaro",
+    "synonyms": [ "Acambaro" ],
+    "languageCode": "es"
+  }, {
+    "value": "Romita",
+    "synonyms": [ "Romita" ],
+    "languageCode": "es"
+  }, {
+    "value": "Jaral del Progreso",
+    "synonyms": [ "Jaral del Progreso" ],
+    "languageCode": "es"
+  }, {
+    "value": "San Felipe",
+    "synonyms": [ "San Felipe" ],
+    "languageCode": "es"
+  } ]
+}

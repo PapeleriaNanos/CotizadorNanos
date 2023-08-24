@@ -1,0 +1,65 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Hola mi nombre es SANDY y yo sere tu asistente el día de hoy. En que te puedo ayudar? Puedes escribirme o elije una de las siguientes opciones:\r\n\r\n1.Hacer Pedido\r\n2. Cotización\r\n3. Info Tramites" ]
+        },
+        "languageCode": "es"
+      } ]
+    },
+    "name": "a9e10ac4-6af9-45de-9c7c-316bc8155961"
+  }, {
+    "intent": "Tramites",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Tramites",
+    "name": "dbbe917b-eea6-4f3a-9bf6-8b350f2f29ab"
+  }, {
+    "intent": "Cotizacion",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "¿Lista o Producto?",
+    "name": "7d226ded-a406-43fc-a006-00380be742be"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ups, no he entendido a que te refieres.", "¿Podrías repetirlo, por favor?", "¿Disculpa?", "¿Decías?", "¿Cómo?" ]
+        },
+        "languageCode": "es"
+      } ]
+    },
+    "name": "1e3ea025-3a39-4032-a756-63762595280b"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ups, no he entendido a que te refieres.", "¿Podrías repetirlo, por favor?", "¿Disculpa?", "¿Decías?", "¿Cómo?" ]
+        },
+        "languageCode": "es"
+      } ]
+    },
+    "name": "5d5c4352-0e69-4b9c-b1f0-32a06d28e500"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.30000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_MANUAL",
+    "multiIntentSettings": {
+    
+    }
+  },
+  "advancedSettings": {
+    "enabled": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entities": [ {
+    "value": "Espiral",
+    "synonyms": [ "Espiral" ],
+    "languageCode": "es"
+  }, {
+    "value": "Doble-Espiral",
+    "synonyms": [ "Doble-Espiral" ],
+    "languageCode": "es"
+  }, {
+    "value": "Cosido",
+    "synonyms": [ "Cosido" ],
+    "languageCode": "es"
+  }, {
+    "value": "Engrapado",
+    "synonyms": [ "Engrapado", "Grapa" ],
+    "languageCode": "es"
+  } ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "f81c0431-ece6-4012-a77b-89c6be319b0c",
+  "displayName": "Cotizacion",
+  "transitionRoutes": [ {
+    "intent": "confirmarSi",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Pedir Lista",
+    "name": "fd6d4d53-aab1-48b0-8818-1f028ce38ae1"
+  }, {
+    "intent": "confirmarNo",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Previous Page",
+    "name": "1f250da1-5b2c-4a2e-9e68-5340ef577e08"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ups, no he entendido a que te refieres.", "¿Podrías repetirlo, por favor?", "¿Disculpa?", "¿Decías?", "¿Cómo?" ]
+        },
+        "languageCode": "es"
+      } ]
+    },
+    "name": "013d288c-89d5-41b0-9654-69753c0f4c60"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ups, no he entendido a que te refieres.", "¿Podrías repetirlo, por favor?", "¿Disculpa?", "¿Decías?", "¿Cómo?" ]
+        },
+        "languageCode": "es"
+      } ]
+    },
+    "name": "48ed99ea-adef-42ea-85a7-fb68fb63b390"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.30000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_MANUAL"
+  }
+}

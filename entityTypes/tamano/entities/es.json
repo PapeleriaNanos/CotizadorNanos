@@ -1,0 +1,39 @@
+{
+  "entities": [ {
+    "value": "Carta",
+    "synonyms": [ "Carta" ],
+    "languageCode": "es"
+  }, {
+    "value": "Oficio",
+    "synonyms": [ "Oficio" ],
+    "languageCode": "es"
+  }, {
+    "value": "Doble Carta",
+    "synonyms": [ "Doble Carta" ],
+    "languageCode": "es"
+  }, {
+    "value": "Coin",
+    "synonyms": [ "Coin", "nomina" ],
+    "languageCode": "es"
+  }, {
+    "value": "Jumbo",
+    "synonyms": [ "Jumbo" ],
+    "languageCode": "es"
+  }, {
+    "value": "Gigante",
+    "synonyms": [ "Gigante" ],
+    "languageCode": "es"
+  }, {
+    "value": "#1",
+    "synonyms": [ "#1", "no 1" ],
+    "languageCode": "es"
+  }, {
+    "value": "#2",
+    "synonyms": [ "#2", "no 2" ],
+    "languageCode": "es"
+  }, {
+    "value": "#3",
+    "synonyms": [ "#3", "no 3" ],
+    "languageCode": "es"
+  } ]
+}

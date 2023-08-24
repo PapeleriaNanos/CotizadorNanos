@@ -1,0 +1,60 @@
+{
+  "name": "2acbae52-57d2-4c86-a788-3cfdb46d1e9f",
+  "displayName": "Datos Cliente",
+  "form": {
+    "parameters": [ {
+      "displayName": "name",
+      "required": true,
+      "entityType": "@sys.person",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "A nombre de quien quedaría el pedido?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      },
+      "redact": true
+    }, {
+      "displayName": "phone",
+      "required": true,
+      "entityType": "@sys.phone-number",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Tendrá algún numero de teléfono o WhatsApp?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      },
+      "redact": true
+    }, {
+      "displayName": "email",
+      "required": true,
+      "entityType": "@sys.email",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Tiene algún correo electrónico que desee agregar?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      },
+      "redact": true
+    } ]
+  },
+  "transitionRoutes": [ {
+    "condition": "$page.params = FINAL",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Domicilio",
+    "name": "02b4b023-accc-4f9a-9825-fdf89503fa3f"
+  } ]
+}

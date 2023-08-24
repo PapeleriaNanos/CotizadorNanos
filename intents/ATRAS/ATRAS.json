@@ -1,0 +1,7 @@
+{
+  "name": "1253d084-8472-48b0-aaba-380c1d8b3702",
+  "displayName": "ATRAS",
+  "priority": 500000,
+  "skipAutoAnnotation": true,
+  "numTrainingPhrases": 8
+}

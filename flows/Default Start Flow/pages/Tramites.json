@@ -1,0 +1,15 @@
+{
+  "name": "66ef2cc5-71aa-4bfe-9ae2-ed2c9e9096be",
+  "displayName": "Tramites",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "confirmarSi",
+    "triggerFulfillment": {
+    
+    },
+    "targetFlow": "¿Algo Mas?",
+    "name": "c3c492f6-2fe3-4c43-97e8-bdbe003fb2df"
+  } ]
+}

@@ -1,0 +1,27 @@
+{
+  "entities": [ {
+    "value": "Mercado Libre",
+    "synonyms": [ "Mercado Libre", "Mercadolibre" ],
+    "languageCode": "es"
+  }, {
+    "value": "DHL",
+    "synonyms": [ "DHL" ],
+    "languageCode": "es"
+  }, {
+    "value": "Fed-Ex",
+    "synonyms": [ "Fed-Ex" ],
+    "languageCode": "es"
+  }, {
+    "value": "Estafeta",
+    "synonyms": [ "Estafeta" ],
+    "languageCode": "es"
+  }, {
+    "value": "Recoger Personalmente",
+    "synonyms": [ "Recoger Personalmente" ],
+    "languageCode": "es"
+  }, {
+    "value": "Entrega Domicilio",
+    "synonyms": [ "entrega a domicilio", "Entrega Domicilio" ],
+    "languageCode": "es"
+  } ]
+}

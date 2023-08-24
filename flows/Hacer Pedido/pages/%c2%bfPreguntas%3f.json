@@ -1,0 +1,15 @@
+{
+  "name": "8ec211f7-4f79-4a77-83f9-5c078c9f229e",
+  "displayName": "¿Preguntas?",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "confirmarSi",
+    "triggerFulfillment": {
+    
+    },
+    "targetFlow": "¿Algo Mas?",
+    "name": "b475104b-9bd3-4866-bec3-168c92bac256"
+  } ]
+}

@@ -1,0 +1,43 @@
+{
+  "defaultLanguageCode": "es",
+  "timeZone": "America/Chicago",
+  "enableLogging": true,
+  "projectNumber": 559073299357,
+  "speechToTextSettings": {
+  
+  },
+  "startFlow": "Default Start Flow",
+  "enableStackdriverLogging": true,
+  "advancedSettings": {
+    "audioExportGcsDestination": {
+    
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+      "enableStackdriverLogging": true,
+      "enableInteractionLogging": true
+    }
+  },
+  "speakerIdSettings": {
+  
+  },
+  "customPayloadTemplates": [ {
+    "displayName": "Messenger Button",
+    "payload": {
+      "buttons": [ "COTIZACION", "INFO TRAMITES" ],
+      "template_type": "button",
+      "text": "En que le podemos ayudar el dia de hoy?"
+    }
+  } ],
+  "textToSpeechSettings": {
+  
+  }
+}

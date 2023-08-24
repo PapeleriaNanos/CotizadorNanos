@@ -1,0 +1,57 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "vi su anuncio en face",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "parts": [ {
+      "text": "Sigue disponible",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "79266c27-999c-4add-a002-aba37270faaf",
+    "parts": [ {
+      "text": "hola",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "7648bde7-5836-48a7-a577-211863086914",
+    "parts": [ {
+      "text": "hey",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "924df67a-1368-490f-b3cc-8d1a0506fcf6",
+    "parts": [ {
+      "text": "saludos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "66e0178d-e50d-4829-b66b-b8a06d711044",
+    "parts": [ {
+      "text": "hey ho",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "5a261e3f-c5c0-4a1f-bf0c-cb6bf25c2527",
+    "parts": [ {
+      "text": "chao",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  } ]
+}

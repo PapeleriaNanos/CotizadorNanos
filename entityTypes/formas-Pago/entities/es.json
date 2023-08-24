@@ -1,0 +1,31 @@
+{
+  "entities": [ {
+    "value": "Efectivo",
+    "synonyms": [ "Efectivo", "cash" ],
+    "languageCode": "es"
+  }, {
+    "value": "Tarjeta Debito",
+    "synonyms": [ "Tarjeta Debito" ],
+    "languageCode": "es"
+  }, {
+    "value": "Tarjeta Credito",
+    "synonyms": [ "credito", "Tarjeta Credito" ],
+    "languageCode": "es"
+  }, {
+    "value": "Mercado Pago",
+    "synonyms": [ "mercado libre", "Mercado Pago", "mercadopago" ],
+    "languageCode": "es"
+  }, {
+    "value": "PayPal",
+    "synonyms": [ "pay pal", "PayPal" ],
+    "languageCode": "es"
+  }, {
+    "value": "Deposito",
+    "synonyms": [ "Deposito" ],
+    "languageCode": "es"
+  }, {
+    "value": "Transferencia",
+    "synonyms": [ "Transferencia", "transferencia bancaria", "transferir" ],
+    "languageCode": "es"
+  } ]
+}

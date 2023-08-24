@@ -1,0 +1,23 @@
+{
+  "name": "d374162f-edd6-427f-9b19-2344824fdb4a",
+  "displayName": "Total Pedido",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Su pedido tienen un gran total de $ 000.00, es correcto?" ]
+      },
+      "languageCode": "es"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "confirmarSi",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Finalizar Pedido",
+    "name": "2a289b45-2e21-46e2-a03d-3d961cd72252"
+  } ]
+}

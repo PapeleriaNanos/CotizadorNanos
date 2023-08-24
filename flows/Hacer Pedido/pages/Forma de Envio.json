@@ -1,0 +1,30 @@
+{
+  "name": "dcec8d21-32b5-4952-a10d-25eb3bd1aa9d",
+  "displayName": "Forma de Envio",
+  "form": {
+    "parameters": [ {
+      "displayName": "formaEnvio",
+      "required": true,
+      "entityType": "@formas-Envio",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "Como desea recibir su pedido?" ]
+            },
+            "languageCode": "es"
+          } ]
+        }
+      },
+      "redact": true
+    } ]
+  },
+  "transitionRoutes": [ {
+    "condition": "$page.params = FINAL",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Forma de Pago",
+    "name": "9ce01863-a72a-40ac-a7be-f8cd48f9ff0d"
+  } ]
+}

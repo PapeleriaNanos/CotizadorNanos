@@ -1,0 +1,7 @@
+{
+  "name": "921de533-d7c2-4152-845b-6af0dc0c0edf",
+  "displayName": "Descuento",
+  "priority": 500000,
+  "skipAutoAnnotation": true,
+  "numTrainingPhrases": 4
+}
